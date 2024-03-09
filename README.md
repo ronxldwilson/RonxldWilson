@@ -1,6 +1,10 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=RonxldWilson&color=blue)
 
+<img src="https://raw.githubusercontent.com/ronxldwilson/ronxldwilson/output/snake.svg" alt="Snake animation" />
+
+###
+
 <!--
 **RonxldWilson/RonxldWilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

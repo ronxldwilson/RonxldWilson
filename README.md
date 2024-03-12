@@ -11,7 +11,7 @@ Welcome to my GitHub Profile
 ###
 
 <img src="https://raw.githubusercontent.com/ronxldwilson/ronxldwilson/output/snake.svg" alt="Snake animation" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuhin-thinks&" alt="tuhin-thinks" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronxldwilson&" alt="ronxldwilson" />
 ###
 ###
 

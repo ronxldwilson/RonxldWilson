@@ -9,10 +9,11 @@ Welcome to my GitHub Profile
 </div>
 
 ###
-<center>
+<h2> Total Contributions </h2>
+<div align = "center"> 
 <img src="https://raw.githubusercontent.com/ronxldwilson/ronxldwilson/output/snake.svg" alt="Snake animation" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronxldwilson&" alt="ronxldwilson" />
-</center>
+</div>
 
 <!--
 **RonxldWilson/RonxldWilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
